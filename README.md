@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# 🎬 Shivangi's AI Movie Recommender
 
 
@@ -36,3 +37,6 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+=======
+# Shivangi-s-movie-recommender
+>>>>>>> 511919b0de7267989b99d8c78247f4dca05143e2
