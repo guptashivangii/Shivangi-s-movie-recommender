@@ -114,7 +114,7 @@ streamlit run app.py
 ## 🚀 Live Application
 
 🔗 **Launch the App**  
-https://guptashivangii-shivangi-s-movie-recommender.streamlit.app
+[https://guptashivangii-shivangi-s-movie-recommender.streamlit.app](https://shivangi-s-movie-recommender-6eumxnk8znfzufxxn7x5zk.streamlit.app/)
 
 ---
 
